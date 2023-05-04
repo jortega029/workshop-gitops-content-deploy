@@ -1,7 +1,7 @@
 {
   "environment": "dev",
   "cloud": "aws",
-  "project": "project-sno-<name>",
+  "project": "project-sno-9",
   "region": "eu-central-1",
   "cluster": {
     "name": "sno-9",
